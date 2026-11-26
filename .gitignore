@@ -1,2 +1,28 @@
-uploads
-ResumeBuilder
+# Go build artifacts
+/apps/api/bin/
+/apps/api/uploads/
+/apps/api/coverage.out
+*.test
+
+# Legacy root-level artifacts
+/ResumeBuilder
+/uploads/
+
+# Node
+node_modules/
+dist/
+.vite/
+*.tsbuildinfo
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+# Editors and OS
+.DS_Store
+.idea/
+.vscode/
