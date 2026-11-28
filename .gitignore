@@ -7,6 +7,9 @@
 # Legacy root-level artifacts
 /ResumeBuilder
 /uploads/
+/uploads/
+server
+!server/
 
 # Node
 node_modules/

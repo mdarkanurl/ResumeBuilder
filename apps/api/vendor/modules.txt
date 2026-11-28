@@ -1,4 +1,0 @@
-# github.com/confluentinc/confluent-kafka-go v1.9.2
-## explicit; go 1.13
-# gopkg.in/confluentinc/confluent-kafka-go.v1 v1.8.2
-## explicit
